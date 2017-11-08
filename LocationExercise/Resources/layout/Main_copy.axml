@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_update_loc"
+        android:text="Check distance from your location" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="53.5dp"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/editText1"
+            android:text="latitude : " />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txt_latitude" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="55.5dp"
+        android:id="@+id/linearLayout2">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/editText3"
+            android:text="longitude : " />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txt_longitude" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="66.0dp"
+        android:id="@+id/linearLayout3">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/editText4"
+            android:text="provider : " />
+        <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txt_provider" />
+    </LinearLayout>
+</LinearLayout>

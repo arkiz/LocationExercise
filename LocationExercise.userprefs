@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2623950C-4BA5-40DE-94D2-FA30D50C67D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LocationExercise/MainActivity.cs">
+    <Files>
+      <File FileName="LocationExercise/LocationActivity.cs" Line="11" Column="34" />
+      <File FileName="LocationExercise/MainActivity.cs" Line="174" Column="9" />
+      <File FileName="../../../../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.0.2-1/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="2437" Column="2" />
+      <File FileName="../../../../../../Library/Caches/VisualStudio/7.0/MSBuild/4016_2/Microsoft.Common.CurrentVersion.targets" Line="1935" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LocationExercise AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_21" />
+  <MultiItemStartupConfigurations />
+</Properties>
